@@ -1,3 +1,4 @@
+# Remeber About Plagiarism !!!
 # FIT-VUT-IZP-project-1
 FIT VUT v Brne IZP project 1 (t9search)
 
